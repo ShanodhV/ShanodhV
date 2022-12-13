@@ -1,8 +1,7 @@
-<h1>About Me :</h1>
-<h2>👋 Hi, I’m Shanodh<br>
-👀 I’m interested in software development<br>
-🌱 I’m currently following a Software engineering degree
-<div id="header" align="right"><img src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="100"/></div></h2>
+<h2> Hi, I'm Shanodh Vithanage! <img src="https://i.pinimg.com/originals/a8/d5/ba/a8d5baeb06fc12c77ccefd0121010d20.gif" width="50"></h2>
+
+<p><em>Software Enginnering Undergraduate at <a href=https://www.cinec.edu/">CINEC Campus</a></br></em></p>
+
 
 
 
